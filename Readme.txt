@@ -1,5 +1,4 @@
-# 3-D-Game-using-OpenGL-without-the-sound-library-libklang-
-3-D Game using OpenGL (without the sound library libklang)
+//This is the Final Submission of the 3-d game
 
 This includes all the features as asked in the assignment.
 

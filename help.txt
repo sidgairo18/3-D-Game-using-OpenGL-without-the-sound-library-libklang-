@@ -1,0 +1,35 @@
+Instructions to play the game
+
+Contents of the Folder-
+1. exe – the compiled executable.
+2. game.cpp – the complete code for the 3-d World.
+3. Makefile – which is the make file.
+
+How to run-
+
+1. Run the command on terminal ./exe to start the game.
+2. To compile the code run `make`.
+
+How to play - 
+
+1. The basic aim of the game is to collect all the prizes and reach the end of the track shown by the black square.
+2. There are obstacles which hinder the player from collecting the points.
+3. The obstacles are in the form of gaps/voids, moving tiles and poisonous walls.
+4. The player gets 4 lives.
+5.  The player is rewarded with 10 points on collecting each prize and 100 points on reaching the end.
+
+Game Controls-
+
+The player and camera angles can be controlled using the arrow keys and the mouse.
+
+Controls-
+
+Up Arrow – Move Forward
+Down Arrow – Move Backwards
+Left Arrow – Move Left
+Right Arrow – Move Right
+Q- Quit
+V – Change Camera Angles
+
+Press and drag the mouse to rotate the map.
+Scroll to zoom in and zoom out.
